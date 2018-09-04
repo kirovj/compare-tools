@@ -1,7 +1,6 @@
 # encoding: utf-8
 """
 @author: Jeremiah
-@contact: wuyiting@myhexin.com
 @time: 2018/7/28
 """
 
